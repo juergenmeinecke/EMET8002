@@ -5,13 +5,41 @@ The following research topics have been proposed by various faculty members of t
 
 .. note:: 
 
-   In the first week of the semester I will try to match up students with supervisors. Note that
-   this process will be double-blind. You do not know which supervisor proposed which topic, the
-   supervisor does not know which student chooses her/his topic. Also, each topic will only be
-   assigned to one student.
+   During the first two weeks of the semester I will try to match up students with supervisors. Note
+   that this process will be double-blind. You do not know which supervisor proposed which topic,
+   the supervisor does not know which student chooses her/his topic. You and the supervisor will
+   only find out after the match is made.
 
-   Details on the matching algorithm will be provided during lecture. It would be a clever strategy
-   of yours to make a ranking of topics rather than fixating on one particular topic.
+   Further rules of the game:
+
+   * Each topic will be assigned at most once.
+
+   * Some faculty members have submitted two topics but are required to only supervise one of these. 
+
+   * Only students **enrolled** in EMET8002 will be considered.
+
+   * First deadline for submitting your topic preferences: Friday 25 July, 12pm. Those of you who
+     submit their preferences by that deadline will get matched in the first round. 
+
+   * Second deadline for submitting your topic preferences: Wednesday 30 July, 4pm. You can only
+     submit preferences for those topics that are left over after the first round (see previous
+     bullet point).
+
+   * If there are more students than available topics, then a random device will exclude students
+     from participation in the course.
+
+   * If necessary, Masters students may get priority over PhD students.
+
+   * How do you submit your topic preferences? By e-mailing juergen.meinecke@anu.edu.au a ranking of
+     at least 5 topics. Make sure you confirm that you are enrolled for the course and mention your
+     degree (Masters, PhD, other). 
+
+   * What happens after matches are made? I will let you know which topic you got and then will
+     reveal to you the name of the supervising faculty member. You will then need to contact the
+     faculty member within 24 hours and start working on the project as soon as possible.
+
+   * Once a topic has been assigned to you, you cannot choose a different topic. 
+   
 
 .. admonition:: Topic 1 
 

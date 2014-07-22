@@ -7,7 +7,7 @@
 Welcome to EMET8002 -- Case Studies in Applied Economic Analysis and Econometrics!
 ===================================================================================
 
-This website hosts all the lecture notes and exercises for the ANU course EMET8002
+This website hosts the course material for the ANU course EMET8002
 
 
 **********************
