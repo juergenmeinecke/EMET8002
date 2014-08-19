@@ -4,6 +4,8 @@ Tips for Writing a Referee Report in Economics
 General Tips
 =============
 
+Presume that you do not know how to write a good referee report
+
 Comment on the manuscript's originality, clarity, contribution to the
 literature, and relevance to real world problems.
 

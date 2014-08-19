@@ -6,6 +6,8 @@ Tips for Writing a Research Paper in Economics
 General tips
 ======================
 
+Presume that you do not know how to write a good paper 
+
 Principles of good writing: simplicity, clarity, unity
 
 Simple is better. Most students think they have to dress up a paper to look impressive.  The exact

@@ -1,7 +1,7 @@
 Tips for Giving a Presentation in Economics
 *********************************************
 
-
+Presume that you do not know how to give a good presentation
 
 The Big 5
 ===========
