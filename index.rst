@@ -19,11 +19,16 @@ Course Outline
    course_outline
    
 ******************
-Topic Proposals
+Research Training
 ******************
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   topics
+   tips_paper_writing
+
+   tips_report_writing
+   
+   tips_presentation_giving
+
 

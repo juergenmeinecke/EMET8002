@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Palatino, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  color: #333333;
+  background-color: #dcddd8;
+}
+
+div.admonition, div.sidebar {
+    border: 1px solid #609060;
+    background-color: #474f77;
+    /*background-color: #e9ffe9;*/
+}
